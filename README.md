@@ -31,7 +31,6 @@
       <img src="image/visual-studio-code.svg" alt="Icono de Visual Studio Code" style="width:2rem; height:auto;" />
       <img src="image/visual-studio.svg" alt="Icono de Visual Studio" style="width:2rem; height:auto;" />
       <img src="image/UiPath.svg" alt="Icono de UiPath Studio" style="width:6rem; height:auto;" />
-      <img src="image/UiPath.svg" alt="Icono de UiPath Studio" style="width:6rem; height:auto;" />
     </p>
   </div>
 </div>
