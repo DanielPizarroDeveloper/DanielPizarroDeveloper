@@ -17,6 +17,11 @@
 </div>
 
 <h2 align="center">My Social Media :mailbox_with_no_mail:</h2>
+<div align="center" style="display: flex; flex-direction: row;">
+  <a href="https://www.facebook.com/DanielAlejandroPizarro" target="_blank">
+    <img style="width:2rem; height:auto" src="image/facebook.svg" alt="Descripción de la imagen" />
+  </a>
+</div>
 
 <!--
 **DanielPizarroDeveloper/DanielPizarroDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
