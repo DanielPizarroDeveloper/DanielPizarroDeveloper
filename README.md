@@ -21,6 +21,16 @@
   <a href="https://www.facebook.com/DanielAlejandroPizarro" target="_blank"><img src="image/facebook.svg" alt="Icono de Facebook" style="width:2rem; height:auto;" /></a>
   <a href="https://www.instagram.com/danielpizarro_/" target="_blank"><img src="image/instagram.svg" alt="Icono de Instagram" style="width:2rem; height:auto;" /></a>
   <a href="https://www.linkedin.com/in/daniel-pizarro-saavedra/" target="_blank"><img src="image/linkedin.svg" alt="Icono de Linkedln" style="width:2rem; height:auto;" /></a>
+  <a href="mailto:Saavedra.Alejandro@outlook.com?Subject=Request,%20from%20Github" target=_blank><img src="image/outlook.svg" alt="Icono de Outlook" style="width:2rem; height:auto;" /></a>
+</div>
+
+<div align="center">
+  <h2>IDE 💻</h2>
+  <div align="center" style="display: flex; flex-direction: row">
+    <p>
+      <img src="image/facebook.svg" alt="Icono de Facebook" style="width:2rem; height:auto;" />
+    </p>
+  </div>
 </div>
 <!--
 **DanielPizarroDeveloper/DanielPizarroDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
