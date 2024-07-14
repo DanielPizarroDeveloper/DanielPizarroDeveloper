@@ -46,6 +46,17 @@
     </p>
   </div>
 </div>
+
+<div align="center">
+  <h2>Database 🖱️</h2>
+  <div align="center" style="display: flex; flex-direction: row">
+    <p>
+      <img src="image/SQLServer.svg" alt="Icono de SQL Server" style="width:2rem; height:auto;" />
+      <img src="image/oracle.svg" alt="Icono de Oracle" style="width:2rem; height:auto;" />
+      <img src="image/MySQL.svg" alt="Icono de MySQL" style="width:2rem; height:auto;" />
+    </p>
+  </div>
+</div>
 <!--
 **DanielPizarroDeveloper/DanielPizarroDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
