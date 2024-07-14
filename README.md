@@ -39,7 +39,7 @@
   <h2>Languages ⌨️</h2>
   <div align="center" style="display: flex; flex-direction: row">
     <p>
-      <img src="image/C#.svg" alt="Icono de C#" style="width:2rem; height:auto;" />
+      <img src="image/CSharp.svg" alt="Icono de C#" style="width:2rem; height:auto;" />
       <img src="image/java.svg" alt="Icono de Java" style="width:2rem; height:auto;" />
       <img src="image/python.svg" alt="Icono de Python" style="width:2rem; height:auto;" />
     </p>
