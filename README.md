@@ -64,6 +64,7 @@
     <p>
       <img src="image/reactjs.svg" alt="Icono de React JS" style="width:2rem; height:auto;" />
       <img src="image/js.svg" alt="Icono de Javascript" style="width:2rem; height:auto;" />
+      <img src="image/CSS.svg" alt="Icono de CSS" style="width:2rem; height:auto;" />
     </p>
   </div>
 </div>
