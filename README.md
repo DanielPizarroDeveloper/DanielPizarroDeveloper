@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <h2>Learning 🧑‍🏫</h2>
+  <h2>Learning... 🧑‍🏫</h2>
   <div align="center" style="display: flex; flex-direction: row">
     <p>
       <img src="image/reactjs.svg" alt="Icono de React JS" style="width:2rem; height:auto;" />
